@@ -29,6 +29,7 @@ body {
 
 .grid-3-columns {
   grid-template-columns: 1fr 1fr 1fr;
+  margin-top: 20px;
 }
 
 .grid-3-columns-first-narrow {
